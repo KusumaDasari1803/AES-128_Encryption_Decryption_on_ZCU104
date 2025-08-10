@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements an AES-128 encryption and decryption core in Verilog, packaged as a custom Vivado IP.  
-The design was integrated into a block design on the Xilinx ZCU104 board and verified in hardware.
+The design was integrated into a block design on the Xilinx ZCU104 board.
 
 ## Features
 - AES-128 algorithm with 128-bit key
